@@ -1,7 +1,0 @@
-create table1 (
-id number,
-nombre varchar2(10),
-pais  varchar2(20),
-canal number,
-sucursal number,
-folio number);
